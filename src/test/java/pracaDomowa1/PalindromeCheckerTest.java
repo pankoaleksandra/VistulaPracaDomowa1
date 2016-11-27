@@ -1,4 +1,4 @@
-package pracaDomowa1;
+package pracadomowa1;
 
 
 import org.assertj.core.api.Assertions;

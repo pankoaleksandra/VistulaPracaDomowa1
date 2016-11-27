@@ -1,4 +1,4 @@
-package pracaDomowa1;
+package pracadomowa1;
 
 public class Rectangle {
     private int width;

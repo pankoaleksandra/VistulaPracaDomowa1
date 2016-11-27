@@ -1,4 +1,4 @@
-package pracaDomowa1;
+package pracadomowa1;
 
 public class PalindromeChecker {
     public boolean isPalindrome(String word) {
